@@ -2,3 +2,4 @@ This is an example to code a program to control linked list with C++. The functi
 - Add node (begin, end, anywhere);
 - Delete node (begin, end, anywhere);
 - Sort node.
+- Find node.
